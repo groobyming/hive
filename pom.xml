@@ -60,7 +60,7 @@
   </modules>
 
   <properties>
-    <reversion>2.3.4-bkbase.3</reversion>
+    <reversion>2.3.4-bkbase.4</reversion>
     <hive.version.shortname>2.3.0</hive.version.shortname>
 
     <!-- Build Properties -->
